@@ -5,7 +5,7 @@
 
 ![Kaio Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioDD&show_icons=true&theme=synthwave)
 
-## Tecnologias que uso no meu dia:
+## Tecnologias e IDES que uso no meu dia:
 [![linkedin](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
