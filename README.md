@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaio Dantas</h1>
+<h1 align="center">olá 👋, Eu sou Kaio </h1>
 <h3 align="center">Back-end developer</h3>
 
 - 🌱 Desenvolvedor C# | DotNet | SQL Server
