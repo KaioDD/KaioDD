@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaio Dantas</h1>
 <h3 align="center">Back-end developer</h3>
 
-- 🌱 Tenho conhecimentos sobre: **DotNet c# SQL Server**
+- 🌱 Desenvolvedor  ** C# | DotNet | SQL Server**
 
 - 💬 Sobre mim: **Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho 21 anos. Minha área de expertise está focada em .NET e C#, duas das tecnologias mais poderosas e versáteis para o desenvolvimento de aplicações. Embora eu ainda não tenha experiência profissional na área, estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.**
 
