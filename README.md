@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaio Dantas</h1>
 <h3 align="center">Back-end developer</h3>
 
-- 🌱 I’m currently learning **DotNet c# SQL Server**
+- 🌱 Tenho conhecimentos sobre: **DotNet c# SQL Server**
 
 - 💬 Sobre mim: **Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho 21 anos. Minha área de expertise está focada em .NET e C#, duas das tecnologias mais poderosas e versáteis para o desenvolvimento de aplicações. Embora eu ainda não tenha experiência profissional na área, estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.**
-
-- 📫 How to reach me **kkaiooliveira12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
