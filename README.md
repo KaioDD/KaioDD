@@ -1,36 +1,24 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kaio Dantas</h1>
+<h3 align="center">Back-end developer</h3>
 
- ### Olá! eu sou Kaio Dantas, Bem vindo ao meu perfil! 🖐️
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-dantas-de-oliveira-107531261/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/kaio-dantas-de-oliveira-107531261/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kkaio_sz/)
+- 🌱 I’m currently learning **DotNet c# SQL Server**
 
-![Kaio Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioDD&show_icons=true&theme=synthwave)
-  
-</div>
+- 💬 Sobre mim: **Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho 21 anos. Minha área de expertise está focada em .NET e C#, duas das tecnologias mais poderosas e versáteis para o desenvolvimento de aplicações. Embora eu ainda não tenha experiência profissional na área, estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.**
+
+- 📫 How to reach me **kkaiooliveira12@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kaio dantas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaio dantas" height="30" width="40" /></a>
+<a href="https://instagram.com/kkaio_sz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkaio_sz" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiodd&show_icons=true&locale=en&layout=compact" alt="kaiodd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiodd&show_icons=true&theme=tokyonight&locale=en" alt="kaiodd" /></p>
 
 
-
-
-
-<div align="center">
-
- ## Tecnologias e IDES que uso no meu dia:
-[![linkedin](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
-<br/> 
-  
-</div>
-
-<div align="center">
-
-  ## Vacuum:
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/VacuumORG) 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/vacuum)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/VacuumORG)
-
-</div>
 
