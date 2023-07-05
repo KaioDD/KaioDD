@@ -1,14 +1,14 @@
-<h1 align="center">olá 👋, Eu sou Kaio </h1>
+<h1 align="center">olá 👋, Bem vindo ao meu perfil! </h1>
 <h3 align="center">Back-end developer</h3>
 
-- 🌱 Desenvolvedor C# | DotNet | SQL Server
+- Desenvolvedor C# | DotNet | SQL Server
 
-- 💬 **Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho 21 anos. Minha área de expertise está focada em .NET e C#, duas das tecnologias mais poderosas e versáteis para o desenvolvimento de aplicações. Embora eu ainda não tenha experiência profissional na área, estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.**
+- **Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho 21 anos. Minha área de expertise está focada em .NET e C#, duas das tecnologias mais poderosas e versáteis para o desenvolvimento de aplicações. Embora eu ainda não tenha experiência profissional na área, estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.**
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaio dantas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaio dantas" height="30" width="40" /></a>
-<a href="https://instagram.com/kkaio_sz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkaio_sz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaio-dantas-de-oliveira-107531261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaio dantas" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kkaio_sz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkaio_sz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas que utilizo no meu dia a dia:</h3>
