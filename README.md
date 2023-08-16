@@ -1,7 +1,7 @@
 <h1 align="center">Console.writeline("Bem vindo ao meu perfil!");</h1>
 <h3 align="center">Back-end developer</h3>
 
-- Desenvolvedor C# | DotNet | SQL Server
+- Desenvolvedor back-end e mobile
 
 - **Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho 21 anos. Minha área de expertise está focada em .NET e C#, duas das tecnologias mais poderosas e versáteis para o desenvolvimento de aplicações. Embora eu ainda não tenha experiência profissional na área, estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.**
 
