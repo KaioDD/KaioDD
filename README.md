@@ -1,9 +1,9 @@
 <h1 align="center">Console.writeline("Bem vindo ao meu perfil!");</h1>
-<h3 align="center">Back-end developer</h3>
+<h3 align="center">Data Analist</h3>
 
-- Desenvolvedor back-end e mobile
+- Análista de dados 
 
-- **Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho 21 anos. Minha área de expertise está focada em .NET e C#, duas das tecnologias mais poderosas e versáteis para o desenvolvimento de aplicações. Embora eu ainda não tenha experiência profissional na área, estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.**
+- **Olá! Sou um desenvolvedor apaixonado por tecnologia e tenho 24 anos. Minha área de expertise está focada em Power BI, SQL e excel com prioridade em dados para tomada de decisão estrategica em negocios.
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
